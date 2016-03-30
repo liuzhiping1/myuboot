@@ -1,0 +1,15 @@
+if TARGET_ZCZ2416
+
+config SYS_BOARD
+	default "zcz2416"
+
+config SYS_VENDOR
+	default "samsung"
+
+config SYS_SOC
+	default "s3c24xx"
+
+config SYS_CONFIG_NAME
+	default "zcz2416"
+
+endif
