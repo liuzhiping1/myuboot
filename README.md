@@ -1,2 +1,2 @@
 # myuboot
-uboot-2016.01移植s3c2416
+uboot-2016.03移植s3c2416
